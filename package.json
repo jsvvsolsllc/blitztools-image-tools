@@ -1,0 +1,36 @@
+{
+  "name": "blitztools-image-tools",
+  "version": "1.0.0",
+  "description": "Free browser-based image tools — compress, resize, crop, convert images. No uploads, powered by WebAssembly.",
+  "homepage": "https://blitztools.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsvvsolsllc/blitztools-image-tools"
+  },
+  "keywords": [
+    "image-compress",
+    "image-resize",
+    "image-convert",
+    "image-tools",
+    "free-image-tools",
+    "image-crop",
+    "webp-to-png",
+    "webp-to-jpg",
+    "jpg-to-webp",
+    "png-to-jpg",
+    "image-to-pdf",
+    "bulk-resize",
+    "compress-images",
+    "resize-images",
+    "convert-images",
+    "browser-image-tools",
+    "client-side",
+    "webassembly",
+    "privacy"
+  ],
+  "author": "JSVV SOLS LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsvvsolsllc/blitztools-image-tools/issues"
+  }
+}
